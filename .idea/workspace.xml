@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="55d786af-e3aa-4413-98ee-2866184ddf89" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/openshift/scripts/run-in-container.sh" beforeDir="false" afterPath="$PROJECT_DIR$/openshift/scripts/run-in-container.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,8 +23,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/openshift/scripts/run-in-container.sh">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="500">
-              <caret line="32" column="7" lean-forward="true" selection-start-line="32" selection-start-column="7" selection-end-line="32" selection-end-column="7" />
+            <state relative-caret-position="725">
+              <caret line="41" column="57" selection-start-line="41" selection-start-column="53" selection-end-line="41" selection-end-column="57" />
             </state>
           </provider>
         </entry>
@@ -146,30 +145,6 @@
               <item name="open" type="462c0819:PsiDirectoryNode" />
               <item name="project" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="open" type="b2602c69:ProjectViewProjectNode" />
-              <item name="open" type="462c0819:PsiDirectoryNode" />
-              <item name="welcome" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="open" type="b2602c69:ProjectViewProjectNode" />
-              <item name="open" type="462c0819:PsiDirectoryNode" />
-              <item name="welcome" type="462c0819:PsiDirectoryNode" />
-              <item name="migrations" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="open" type="b2602c69:ProjectViewProjectNode" />
-              <item name="open" type="462c0819:PsiDirectoryNode" />
-              <item name="welcome" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="open" type="b2602c69:ProjectViewProjectNode" />
-              <item name="open" type="462c0819:PsiDirectoryNode" />
-              <item name="welcome" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="welcome" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -231,12 +206,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1568773617701</updated>
-      <workItem from="1568773619433" duration="3218000" />
+      <workItem from="1568773619433" duration="3833000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3218000" />
+    <option name="totallyTimeSpent" value="3833000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
@@ -358,8 +333,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/openshift/scripts/run-in-container.sh">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="32" column="7" lean-forward="true" selection-start-line="32" selection-start-column="7" selection-end-line="32" selection-end-column="7" />
+        <state relative-caret-position="725">
+          <caret line="41" column="57" selection-start-line="41" selection-start-column="53" selection-end-line="41" selection-end-column="57" />
         </state>
       </provider>
     </entry>

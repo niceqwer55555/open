@@ -30,7 +30,7 @@
 # Or both together:
 #
 #     POD_NAME=frontend POD_INDEX=2 ./run-in-container.sh ./manage.py shell
-cp -rf ssh_config /etc/ssh/ssh_config
+
 
 # Get name of a currently deployed pod by label and index
 POD_INSTANCE_NAME=`oc get pods \
@@ -39,3 +39,4 @@ POD_INSTANCE_NAME=`oc get pods \
 
 # Run command in a container of the specified pod:
 oc exec -p "$POD_INSTANCE_NAME" -it -- bash -c "${@:-echo}"
+oc exec -p "$POD_INSTANCE_NAME" -it -- bash -c "${@:cp -rf ssh_config /etc/ssh/ssh_config}"
