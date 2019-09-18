@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="55d786af-e3aa-4413-98ee-2866184ddf89" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/open.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/open.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/openshift/scripts/run-in-container.sh" beforeDir="false" afterPath="$PROJECT_DIR$/openshift/scripts/run-in-container.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/openshift/scripts/ssh_config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/openshift/scripts/test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/openshift/scripts/tv-server.py" beforeDir="false" />
-    </list>
+    <list default="true" id="55d786af-e3aa-4413-98ee-2866184ddf89" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
