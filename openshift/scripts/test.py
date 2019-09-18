@@ -15,7 +15,7 @@ def socket_port(ip, port):
         result=s.connect_ex((ip, port))
         if result==0:
             lock.acquire()
-            print ip,u':',port,u'端口已占用'
+            print (ip,u':',port,u'端口已占用')
             lock.release()
     except:
         print (u'端口扫描异常')
