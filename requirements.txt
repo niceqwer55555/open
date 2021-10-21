@@ -8,7 +8,7 @@ pillow==6.1.0
 PyQt5==5.13.1
 tornado==6.0.3
 certifi==2019.3.9
-babel==2.7.0
+babel==2.9.1
 flask-babel==0.12.2
 flask==1.0.2
 idna==2.8
